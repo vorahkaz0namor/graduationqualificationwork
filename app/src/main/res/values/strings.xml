@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Презентация Романа</string>
+    <string name="about_title_item">Обо мне</string>
+    <string name="my_hobby_title_item">Моё хобби</string>
+    <string name="my_group_title_item">Моя группа</string>
+    <string name="sms_me_title_item">Написать мне</string>
+    <string name="about_me_text_view">Здравствуйте! Меня зовут Роман. Я живу в Северске.</string>
+    <string name="my_hobby_text_view">Люблю играть на гитаре...</string>
+</resources>
